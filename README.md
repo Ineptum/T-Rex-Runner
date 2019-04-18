@@ -1,4 +1,5 @@
-# T-Rex Runner
+# T-Rex Runner Version 1.0.0 13/02/2018
+# E-mail: KatKollare@yandex.ru
 
 This game is somewhat a clone of the famous Google unnamed game.
 Unfortunately, the original game is only accessable through Chrome browser
